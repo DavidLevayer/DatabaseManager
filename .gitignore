@@ -11,6 +11,7 @@ gen
 .idea
 *.iml
 classes
+.idea/misc.xml
 
 #Command line
 build.xml
@@ -21,7 +22,6 @@ proguard-project.txt
 
 #User specific
 local.properties
-sample/src/com/cyrilmottier/android/polarissample/util/LocalConfig.java
 
 #gradle
 build
