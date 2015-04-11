@@ -11,7 +11,6 @@ gen
 .idea
 *.iml
 classes
-.idea/misc.xml
 
 #Command line
 build.xml
